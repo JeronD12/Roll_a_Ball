@@ -1,7 +1,7 @@
 
 #Roll a Ball Tutorial
 
-[Web Build](https://github.com/JeronD12/Roll_a_Ball/new/master?readme=1)
+[Web Build](https://jerond12.github.io/Roll_a_Ball/)
 
 ###Other Documentation
 [Variables Basics](https://docs.google.com/document/d/1Gj4fQlpqSxSqI_5Gdeql53nU85LtAb-hrEymrmoIOlU/edit?usp=sharing)
